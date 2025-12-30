@@ -1,0 +1,5 @@
+# Created at 2025-11-29T20:43:57.411
+Boot Manifest-JAR contains absolute paths in classpath 'D:\zm\毕业设计\wangba-manager-server\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
